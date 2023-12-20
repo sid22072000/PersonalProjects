@@ -1,0 +1,1 @@
+# You can no npm i and run the project with npm run start command
